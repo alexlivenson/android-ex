@@ -1,0 +1,6 @@
+<!--Contains all user facing strings (makes internationalization easier)-->
+<resources>
+    <string name="app_name">Android Ex</string>
+    <string name="action_settings">Settings</string>
+    <string name="fortune_description">Suggest the question, which you can answer "yes" or "no", then click on the magic ball</string>
+</resources>
